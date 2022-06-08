@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:on_audio_query/on_audio_query.dart';
 import 'package:tunes/utils/colors.dart';
-
-import '../../../widgets/artist_cell.dart';
+import 'package:tunes/widgets/widgets.dart';
 
 class ArtistTab extends StatefulWidget {
   const ArtistTab({Key? key}) : super(key: key);
